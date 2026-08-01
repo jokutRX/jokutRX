@@ -1,6 +1,12 @@
 <br clear="both">
 
-<h5 data-importer="text" align="center">Всем привет, меня зовут Никита и я Fullstack - разработчик</h5>
+<h5 data-importer="text" align="center">Всем привет, меня зовут Никита, и я Fullstack - разработчик</h5>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jokutRX.jokutRX&"  />
+</div>
 
 ###
 
@@ -64,6 +70,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/jokutRX/jokutRX/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<img data-importer="image" align="left" height="200" src="https://i.gifer.com/XiPu.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="200" src="https://i.gifer.com/XOsX.gif"  />
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.gifer.com/6umS.gif"  />
 </div>
 
 ###
