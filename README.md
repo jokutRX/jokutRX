@@ -74,6 +74,14 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jokutRX/jokutRX/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2&custom_title=%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/jokutRX/jokutRX/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jokutRX&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/jokutRX/jokutRX/snake-output/snake.svg" alt="Snake animation" />
 
 ###
@@ -96,7 +104,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://i.gifer.com/XiPu.gif"  />
+<img data-importer="image" align="right" height="200" src="https://i.gifer.com/6umS.gif"  />
 
 ###
 
@@ -104,8 +112,6 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.gifer.com/6umS.gif"  />
-</div>
+<img data-importer="image" align="left" height="200" src="https://i.gifer.com/XiPu.gif"  />
 
 ###
