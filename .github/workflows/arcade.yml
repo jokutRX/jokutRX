@@ -1,14 +1,15 @@
 name: Generate arcade animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Запуск каждые 12 часов (в 00:00 и 12:00 UTC)
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,15 +19,26 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      # 1. Обязательно скачиваем код репозитория
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Генерируем Pacman анимацию
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
 
+      # 3. Переносим сгенерированные файлы в папку dist
+      - name: Move output files to dist
+        run: |
+          mkdir -p dist
+          mv *.svg dist/ 2>/dev/null || true
 
+      # 4. Пушим папку dist в ветку pacman-output
       - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
           build_dir: dist
