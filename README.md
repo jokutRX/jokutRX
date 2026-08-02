@@ -58,7 +58,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="50" alt="ssh" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx" />
 </p>
@@ -66,10 +66,6 @@
 <br>
 
 <!-- Contributions Animations -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jokutRX/jokutRX/snake-output/snake.svg" alt="Snake animation" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokutRX/jokutRX/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
